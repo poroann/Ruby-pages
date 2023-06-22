@@ -7,7 +7,7 @@ pg_title=File.basename(__FILE__)
 
 
 html.gsub!("%title%",pg_title)
-html.gsub!("%本文%","本文")
+html.gsub!("%本文%","本文2")
 
 
 print html
@@ -21,7 +21,7 @@ __END__
 <meta charset="utf-8">
 <meta name="description" content="">
 <meta name="keywords" content="">
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="icon" href="/ico.png">
 <title>%title%</title>
 <style>
    body{
