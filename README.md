@@ -1,4 +1,4 @@
-# Ruby_pages
+# Ruby-pages
 
 練習用  
 ロリポップレンタルサーバーでテスト
