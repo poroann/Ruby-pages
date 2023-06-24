@@ -22,15 +22,15 @@ EOS
 
 header=<<EOS
 <h1>#{pg_title}</h1>
-<p>header<p>
+<p>header</p>
 EOS
 
 nav=<<EOS
-<p>nav<p>
+<p>nav</p>
 EOS
 
 footer=<<EOS
-<p>twitter link<p>
+<p>twitter link</p>
 EOS
 
 
