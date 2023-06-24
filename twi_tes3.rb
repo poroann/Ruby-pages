@@ -26,16 +26,16 @@ EOS
 
 header=<<EOS
 <h1>#{pg_mei}</h1>
-<p>header<p>
+<p>header</p>
 EOS
 
 nav=<<EOS
-<p>nav<p>
+<p>nav</p>
 EOS
 
 footer=<<EOS
 <img src='#{pg_mei}.png' id='qr'>
-<p>twitter link<p>
+<p>twitter link</p>
 <a href='https://twitter.com/poroann'><img src='./img/Twitter social icons - circle - blue.png' id='tw'></a>
 EOS
 
